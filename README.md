@@ -23,8 +23,7 @@ The "Home Mortgage Default Analysis" project analyzes borrower profiles to predi
 - **Minority Representation**: 85 areas have over 50% minority populations.
 
 ## Tools
-- **Data Analysis**: Python (pandas, matplotlib, seaborn)
-- **Machine Learning**: Scikit-learn, TensorFlow
+- **Data Analysis**: Excel
 - **Visualization**: Power BI, Tableau
 
 ## Benefits
