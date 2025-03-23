@@ -3,6 +3,7 @@
 ## Objective
 - Predict home loan default risks using machine learning models.
 - Provide actionable insights for better loan underwriting and risk management.
+<img src="Images/Dashboard.png" width="400" height="300">
 
 <img src="Images/DIR.png" width="400" height="300">
 
