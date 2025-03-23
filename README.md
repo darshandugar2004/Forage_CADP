@@ -6,10 +6,13 @@
 
 ### Dashboard
 <img src="Images/Dashboard.png" width="550" height="300">
+
 ### Process Map
 <img src="Images/Process Map.png" width="550" height="300">
+
 ### DIR
 <img src="Images/DIR.png" width="550" height="300">
+
 ### BIR
 <img src="Images/BIR.png" width="550" height="300">
 
