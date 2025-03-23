@@ -1,13 +1,15 @@
 # Home Mortgage Default Analysis
 
-## Overview
-The "Home Mortgage Default Analysis" project analyzes borrower profiles to predict home loan defaults. Findings are presented using dashboards, offering insights into key borrower and loan metrics.
-
 ## Objective
-- Analyze borrower data for patterns and trends.
 - Predict home loan default risks using machine learning models.
 - Provide actionable insights for better loan underwriting and risk management.
 
+<img src="Images/DIR.png" width="400" height="300">
+
+<img src="Images/BIR.png" width="400" height="300">
+
+<img src="Images/Process Map.png" width="400" height="300">
+  
 ## Key Features
 1. **Debt to Income (DTI) Ratio**: Shows borrower distribution and impact on repayment likelihood.
 2. **Borrower Income Count (BIR)**: Highlights savings levels through BIR analysis.
