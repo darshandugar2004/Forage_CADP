@@ -3,13 +3,13 @@
 ## Objective
 - Predict home loan default risks using machine learning models.
 - Provide actionable insights for better loan underwriting and risk management.
-<img src="Images/Dashboard.png" width="400" height="300">
+<img src="Images/Dashboard.png" width="550" height="300">
 
-<img src="Images/DIR.png" width="400" height="300">
+<img src="Images/DIR.png" width="550" height="300">
 
-<img src="Images/BIR.png" width="400" height="300">
+<img src="Images/BIR.png" width="550" height="300">
 
-<img src="Images/Process Map.png" width="400" height="300">
+<img src="Images/Process Map.png" width="550" height="300">
   
 ## Key Features
 1. **Debt to Income (DTI) Ratio**: Shows borrower distribution and impact on repayment likelihood.
